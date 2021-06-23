@@ -1,7 +1,7 @@
 {
-  "name": "tailwind-snowpack-starter",
+  "name": "supabase-events-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Supabase Events Demo",
   "main": "src/index.html",
   "scripts": {
     "start": "snowpack dev",
