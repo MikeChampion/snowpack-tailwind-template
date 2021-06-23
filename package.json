@@ -8,8 +8,11 @@
     "build": "snowpack build",
     "prepare": "husky install"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "snowpack",
+    "tailwind"
+  ],
+  "author": "CodeFinity",
   "license": "ISC",
   "devDependencies": {
     "@snowpack/plugin-postcss": "^1.4.1",
