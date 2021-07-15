@@ -1,7 +1,4 @@
 {
-  "name": "supabase-events-demo",
-  "version": "1.0.0",
-  "description": "Supabase Events Demo",
   "main": "src/index.html",
   "scripts": {
     "start": "snowpack dev",
